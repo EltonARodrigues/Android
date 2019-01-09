@@ -1,4 +1,4 @@
-# NOIR-Android-Client
+# NOIR Android Client
 
 This project intention is to create an **App**
 that communicate between an arduino device and the cellphone
